@@ -11,7 +11,7 @@ Track monthly sales for Shopee, Lazada, TikTok Shop or your own website.
 - **Pie chart:** sales share by channel
 - **Filters:** product category and date range
 
-🔗 **Live demo:** _add your link here_
+🔗 **Live demo:**https://fariz-sales-dashboard.streamlit.app/
 
 ## 📦 2. Inventory & Stock Management Dashboard
 Stock control for factories, warehouses and retail stores.
@@ -22,7 +22,7 @@ Stock control for factories, warehouses and retail stores.
 - **Search:** find items by name or SKU
 - **Export:** download a Reorder Report as CSV
 
-🔗 **Live demo:** _add your link here_
+🔗 **Live demo:** https://fariz-inventory-dashboard.streamlit.app/
 
 ## 🚀 Run locally
 
@@ -45,4 +45,4 @@ Upload a CSV or Excel file from the sidebar. Required columns:
 Python • Streamlit • Pandas • NumPy • Plotly
 
 ## 📬 Need a custom dashboard?
-Contact me on Fiverr: _add your profile link here_
+Contact me on Fiverr:https://www.fiverr.com/sellers/farizsuhaimi/edit
